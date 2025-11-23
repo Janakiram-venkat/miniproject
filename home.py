@@ -36,7 +36,7 @@ st.markdown("""
     ">
         <h3 style="margin-bottom:0; color:#1a1a1a;">👋 Welcome!</h3>
         <p style="margin-top:10px; color:#1a1a1a;">
-            This is your multi-page Streamlit application.
+            This is multi-page Streamlit application.
             Use the sidebar to explore features like CSV Viewer, Weather App, and Database Manager.
         </p>
     </div>
